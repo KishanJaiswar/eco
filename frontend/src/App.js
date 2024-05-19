@@ -19,8 +19,8 @@ function App() {
       <WeBelieve />
       <RecentWorks />
       <div className="testimonial-contact">
-        <Testimonial />
-        <Contact />
+        {/* <Testimonial /> */}
+        {/* <Contact /> */}
       </div>
       <Footer />
     </>

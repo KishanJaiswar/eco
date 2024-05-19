@@ -7,47 +7,47 @@ import './RecentWorks.css'
 const RecentWorks = () => {
     const itemData = [
         {
-            img: 'https://elid.com.ph/wp-content/uploads/2022/09/street-camera-surveillance-cctv-street-2021-10-20-02-33-39-utc.jpg',
+            // img: 'https://elid.com.ph/wp-content/uploads/2022/09/street-camera-surveillance-cctv-street-2021-10-20-02-33-39-utc.jpg',
             title: 'Bed',
         },
         {
-            img: 'https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F924%2Fred-mild-steel-body-co2-fire-extinguisher-for-home-use-8-kg-878.jpg&w=384&q=15',
+            // // img: 'https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F924%2Fred-mild-steel-body-co2-fire-extinguisher-for-home-use-8-kg-878.jpg&w=384&q=15',
             title: 'Books',
         },
         {
-            img: 'https://5.imimg.com/data5/SELLER/Default/2020/9/SJ/WK/AR/6388163/brightsun-solar-power-panel-500x500.jpg',
+            // // img: 'https://5.imimg.com/data5/SELLER/Default/2020/9/SJ/WK/AR/6388163/brightsun-solar-power-panel-500x500.jpg',
             title: 'Sink',
         },
         {
-            img: 'https://www.pmmag.com/ext/resources/Issues/2020/July/job-site-productivity.jpg?1593640536',
+            // img: 'https://www.pmmag.com/ext/resources/Issues/2020/July/job-site-productivity.jpg?1593640536',
             title: 'Kitchen',
         },
         {
-            img: 'https://st.depositphotos.com/57300762/55157/i/450/depositphotos_551574884-stock-photo-electrician-engineer-uses-multimeter-test.jpg',
+            // img: 'https://st.depositphotos.com/57300762/55157/i/450/depositphotos_551574884-stock-photo-electrician-engineer-uses-multimeter-test.jpg',
             title: 'Blinds',
         },
         {
-            img: 'https://c0.wallpaperflare.com/preview/633/354/561/lamp-post-turned-off.jpg',
+            // img: 'https://c0.wallpaperflare.com/preview/633/354/561/lamp-post-turned-off.jpg',
             title: 'Chairs',
         },
         {
-            img: 'https://st.depositphotos.com/2026267/3810/i/600/depositphotos_38109265-stock-photo-road-construction.jpg',
+            // img: 'https://st.depositphotos.com/2026267/3810/i/600/depositphotos_38109265-stock-photo-road-construction.jpg',
             title: 'Laptop',
         },
         {
-            img: 'https://5.imimg.com/data5/SELLER/Default/2021/2/QJ/JS/XY/9375503/cng-gas-pipeline-fitting-service-2-500x500.jpg',
+            // // img: 'https://5.imimg.com/data5/SELLER/Default/2021/2/QJ/JS/XY/9375503/cng-gas-pipeline-fitting-service-2-500x500.jpg',
             title: 'Doors',
         },
         {
-            img: 'https://plumbingsales.com.au/media/wysiwyg/stainless-toilet.jpeg',
+            // img: 'https://plumbingsales.com.au/media/wysiwyg/stainless-toilet.jpeg',
             title: 'Coffee',
         },
         {
-            img: 'https://4.imimg.com/data4/VU/PM/MY-7772263/solar-street-lighting-system-500x500.jpg',
+            // // img: 'https://4.imimg.com/data4/VU/PM/MY-7772263/solar-street-lighting-system-500x500.jpg',
             title: 'Storage',
         },
         {
-            img: 'https://comarbois.com/wp-content/uploads/2022/03/etancheite-terrassse.jpg',
+            // img: 'https://comarbois.com/wp-content/uploads/2022/03/etancheite-terrassse.jpg',
             title: 'Candle',
         },
         // {
